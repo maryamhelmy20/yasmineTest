@@ -1,0 +1,24 @@
+[30-Dec-2023 04:48:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/yasminebeautybar/public_html/routes/admin.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/routes/admin.php on line 60
+[30-Dec-2023 04:48:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/yasminebeautybar/public_html/routes/api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/routes/api.php on line 5
+[30-Dec-2023 04:48:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/yasminebeautybar/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/routes/channels.php on line 14
+[30-Dec-2023 04:49:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/yasminebeautybar/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/routes/console.php on line 16
+[30-Dec-2023 04:49:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/yasminebeautybar/public_html/routes/seller.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/routes/seller.php on line 6
+[30-Dec-2023 04:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/yasminebeautybar/public_html/routes/web.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/routes/web.php on line 62

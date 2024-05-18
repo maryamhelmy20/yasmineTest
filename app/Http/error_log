@@ -1,0 +1,4 @@
+[30-Dec-2023 02:02:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/yasminebeautybar/public_html/app/Http/Kernel.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/app/Http/Kernel.php on line 16

@@ -1,0 +1,20 @@
+[30-Dec-2023 02:02:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/yasminebeautybar/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/app/Http/Middleware/Authenticate.php on line 7
+[30-Dec-2023 02:02:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/yasminebeautybar/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[30-Dec-2023 02:03:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/yasminebeautybar/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[30-Dec-2023 02:03:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/yasminebeautybar/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[30-Dec-2023 02:03:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/yasminebeautybar/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7

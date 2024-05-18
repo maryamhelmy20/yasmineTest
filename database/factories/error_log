@@ -1,0 +1,4 @@
+[30-Dec-2023 02:31:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/yasminebeautybar/public_html/database/factories/UserFactory.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/database/factories/UserFactory.php on line 17

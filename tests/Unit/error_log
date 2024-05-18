@@ -1,0 +1,4 @@
+[30-Dec-2023 03:16:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/yasminebeautybar/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/tests/Unit/ExampleTest.php on line 8

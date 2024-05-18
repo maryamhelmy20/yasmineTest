@@ -1,0 +1,4 @@
+[30-Dec-2023 02:10:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/yasminebeautybar/public_html/app/Notifications/OrderNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/yasminebeautybar/public_html/app/Notifications/OrderNotification.php on line 11
